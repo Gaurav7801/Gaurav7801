@@ -1,0 +1,254 @@
+Sl No ,Sanskrit,Guna1,Guna2,Rasa1,Rasa2,Vipaka,Virya,Dosha
+1,Agaru,tikshna,laghu,katu,tikta,katu,ushna,VKS
+2,Agastya,laghu,ruksha,tikta,,katu,sheeta,PKS
+3,Agnimantha,laghu,ruksha,katu,tikta,katu,ushna,VKS
+4,Ajamoda,laghu ,tikshna,katu,tikta,katu,ushna,VKS
+5,Akarakarabha,ruksha,tikshna,katu,,katu,ushna,VKS
+6,Amalaki,ruksha ,laghu,amla,kashaya,madhura,sheeta,TS
+7,Amlavetasa,laghu,ruksha,amla,,amla,ushna,VKS
+8,Amra,guru,snigdha,madhura,,madhura,sheeta,VPS
+9,Amragandhi Haridra,laghu,ruksha,madhura,tikta,katu,sheeta,PS
+10,Ankola,laghu,tikshna,tikta,katu,katu,ushna,VKS
+11,Apaamaarga,sara,tikshna,tikta,katu,katu,ushna,VKS
+12,Aparajita,laghu ,ruksha,tikta,kashaya,katu,sheeta,PKS
+13,Aragwadha,guru,snigdha,madhura ,tikta,madhura,sheeta,VPS
+14,Ardraka,tikshna,ruksha,katu,,madhura,ushna,VKS
+15,Arjuna,laghu,ruksha,kashaya,,katu,sheeta,PKS
+16,Arka- mula,laghu,tikshna,katu ,tikta,katu,ushna ,VKS
+17,Ashoka,laghu,ruksha,kashaya,tikta,katu,sheeta,PKS
+18,Ashwagandha,laghu,snigdha,tikta,kashaya,madhura,ushna,VKS
+19,Ashwagola,snigdha ,picchila,madhura,,madhura,sheeta,VPS
+20,Ashwattha,guru,ruksha,kashaya,madhura,katu,sheeta,PKS
+21,Asthishrunkala,laghu,ruksha,madhura,,madhura,ushna,VKS
+22,Atasi,snigdha ,picchila,madhura,,katu,ushna,VS
+23,Atibala,snigdha,laghu,madhura,,madhura,sheeta,VPS
+24,Ativisha,laghu,ruksha,katu,tikta,katu,ushna,PKS
+25,Avaratani,laghu,ruksha,kashaya,,katu ,sheeta,PKS
+26,Avartaki,laghu,ruksha,kashaya,tikta,katu,sheeta,PKS
+27,Babbula,guru,ruksha,kashaya,,katu,ushna,KS
+28,Badara,picchila ,guru,madhura,amla,madhura,sheeta,VPS
+29,Bakuchi,ruksha,sara,tikta,madhura,katu,sheeta,PKS
+30,Bakula,guru,,kashaya,katu,katu,anushna,PKS
+31,Bala,snigdha,guru,madhura,,madhura,sheeta,VPS
+32,Beejaka/Asana,ruksha,laghu,kashaya,,katu,ushna,VKS
+33,Bhallataka,laghu,snigdha,katu,madhura,madhura,ushna,VKS
+34,Bharangi,ruksha,laghu,katu,tikta,katu,ushna,VKS
+35,Bhringaraja,laghu,ruksha,katu,tikta,katu,ushna,VKS
+36,Bhumyamalaki,laghu,ruksha,tikta,kashaya,madhura,sheeta,PKS
+37,Bibitaka,ruksha,laghu,kashaya,,madhura,ushna,TS
+38,Bijapuraka,laghu ,snigdha,madhura,,madhura,sheeta,VPS
+39,Bilva,laghu,ruksha,kashaya,tikta,katu,ushna,VKS
+40,Bola,ruksha,laghu,tikta,katu,katu,sheeta,TS
+41,Braahmi,laghu,sara,tikta,kashaya,madhura,sheeta,TS
+42,Brhati,laghu,ruksha,katu,tikta,katu,ushna,VKS
+43,Chakramarda,laghu,ruksha,katu,,katu,ushna,VKS
+44,Champaka,laghu,ruksha,katu,tikta,katu,sheeta,PKS
+45,Chandrasura,laghu,ruksha,katu,tikta,katu,ushna,VKS
+46,Changeri,laghu,ruksha,amla ,kashaya,amla,ushna,VKS
+47,Chavya,laghu,ruksha,katu,,katu,ushna,VKS
+48,Chirabilva,laghu,ruksha,tikta,kashaya,katu,ushna,PKS
+49,Chopachini,ruksha,,tikta,,katu,ushna,VKS
+50,Citraka,tikshna ,,katu,,katu,ushna,VKS
+51,Dadima,laghu,,madhura,kashaya,madhura,anushna,TS
+52,Danti,tikshna,,katu,,katu,ushna,PKS
+53,Darbha,laghu,snigdha,madhura,kashaya,madhura,sheeta,TS
+54,Daruharidra,ruksha,laghu,tikta,,katu,ushna,PKS
+55,Devadaru,snigdha ,laghu,tikta,katu,katu,ushna,VKS
+56,Dhanvayasa,laghu,snigdha,kashaya,tikta,madhura,sheeta,VPS
+57,Dhanyaka,laghu,snigdha,tikta,kashaya,madhura,ushna,TS
+58,Dhataki,laghu,ruksha,kashaya,katu,katu,sheeta,PKS
+59,Dhattura,guru,tikshna,tikta,kashaya,katu,ushna,VKS
+60,Draksha,guru,snigdha,madhura,,madhura,sheeta,VPS
+61,Dronapushpi,guru,tikshna,katu,lavana,madhura,ushna,VKS
+62,Durva,laghu,,tikta,madhura,madhura,sheeta,PKS
+63,Ela,laghu ,,katu ,madhura,madhura,sheeta,VPS
+64,Eranda,tikshna ,guru,madhura,katu,madhura,ushna,TS
+65,Gambhari,laghu,,tikta,kashaya,katu,ushna,TS
+66,Gandhaprasarini,guru,,tikta,,katu,ushna,VKS
+67,Garjara,laghu,snigdha,madhura,katu,katu,ushna,TS
+68,Gojihwa,laghu,snigdha,madhura,tikta,madhura,sheeta,VPS
+69,Goksura,guru,,madhura,,madhura,ushna,TS
+70,Gorakshaganja,laghu,tikshna,tikta,kashaya,katu,ushna,VKS
+71,Guduci,guru,snigdha,tikta,kashaya,madhura,ushna,TS
+72,Guggulu,tikshna,sara,tikta,katu,katu,ushna,TS
+73,Gunja,tikshna,laghu,tikta,kashaya,katu,ushna,VKS
+74,Haridra,ruksha,laghu,tikta,katu,katu,ushna,PKS
+75,Haritaki,laghu,ruksha,kashaya,madhura,madhura,ushna,TS
+76,Hingu,laghu,tikshna,katu,tikta,katu,ushna,VKS
+77,Hinsra,ruksha,laghu,katu,tikta,katu,ushna,VKS
+78,Hribera,laghu ,ruksha,tikta,kashaya,madhura,sheeta,PKS
+79,Hrutpatri,laghu ,ruksha,tikta,,katu,ushna,VKS
+80,Ikshu,guru,snigdha,madhura,,madhura,sheeta,PS
+81,Ikshvaku,laghu ,ruksha,tikta,,katu,sheeta,PKS
+82,Indravaruni,laghu ,sara,tikta ,katu,katu,ushna,PKS
+83,Ingudi,laghu ,snigdha,tikta,katu,katu,ushna,VKS
+84,Irimeda,laghu ,tikshna,kashaya ,tikta,katu,ushna,KS
+85,Ishvari,laghu ,ruksha,tikta ,katu,katu,ushna,VKS
+86,Jambu,laghu,ruksha,kashaya,madhura,katu,sheeta,PKS
+87,Japa,laghu ,snigdha,kashaya ,madhura,katu,sheeta,PKS
+88,Jatamamsi,laghu,snigdha,tikta,kashaya,katu,sheeta,TS
+89,Jati,laghu ,snigdha,tikta,kashaya,katu,ushna,TS
+90,Jatiphala,laghu,snigdha,katu,tikta,katu,ushna,VKS
+91,Jayaphala,guru,ruksha,katu,,katu,ushna,PKS
+92,Jeevanti,laghu ,snigdha,madhura,,madhura,sheeta,TS
+93,Jyotishmati,tikshna,sara,katu,tikta,katu,ushna,VKS
+94,Kaasani,laghu ,ruksha,tikta,,katu,ushna,PKS
+95,Kadali,guru,snigdha,madhura,kashaya,madhura,sheeta,VPS
+96,Kadamba,ruksha,,madhura,tikta,katu,sheeta,VPS
+97,Kaidarya,laghu ,ruksha,katu,tikta,katu,sheeta,PKS
+98,Kakamachi,laghu ,snigdha,tikta,,katu,anushna,TS
+99,Kalamegha,laghu,ruksha,tikta,,katu,ushna,PKS
+100,Kamala,laghu ,snigdha,kashaya ,madhura,madhura,sheeta,PKS
+101,Kampillaka,laghu,ruksha,katu,,katu,ushna,VKS
+102,Kanchanara,ruksha,laghu,kashaya,,katu,sheeta,PKS
+103,Kankola,laghu ,ruksha,katu,tikta,katu,ushna,VKS
+104,Kantakari,laghu,ruksha,tikta,katu,katu,ushna,VKS
+105,Kapikacchu,guru,snigdha,madhura,tikta,madhura,ushna,TS
+106,Karanja,laghu ,tikshna,tikta,katu,katu,ushna,VKS
+107,Karavellaka,laghu ,ruksha,tikta,katu,katu,ushna,PKS
+108,Karavira,laghu,ruksha,tikta,tikta,katu,ushna,VKS
+109,Karira,laghu ,ruksha,katu,tikta,katu,ushna,VKS
+110,Karkata Sringi,laghu,ruksha,kashaya,tikta,katu,ushna,VKS
+111,Karpasa,laghu,tikshna,katu,kashaya,katu,ushna,KS
+112,Karpura,laghu,tikshna,tikta,katu,katu,sheeta,PKS
+113,Kasa,laghu,snigdha,madhura,tikta,madhura,sheeta,VPS
+114,Kasamarda,ruksha,laghu,tikta,madhura,katu,ushna,VKS
+115,Kataka,guru,vishada,madhura,kashaya,madhura,sheeta,VKS
+116,Katphala,laghu,tikshna,kashaya,tikta,katu,ushna,VKS
+117,Katuki,ruksha,laghu,tikta,,katu,sheeta,PKS
+118,Kebuka,laghu,ruksha,tikta,kashaya,katu,sheeta,PKS
+119,Khadira,laghu,ruksha,tikta,kashaya,katu,sheeta,PKS
+120,Kharjura,guru,snigdha,madhura,,madhura,sheeta,VPS
+121,Kiratatikta,laghu,ruksha,tikta,,katu,sheeta,PKS
+122,Kitamari,laghu,ruksha,tikta,,katu,ushna,VKS
+123,Kokilaksha,guru,snigdha,madhura,,madhura,sheeta,VPS
+124,Koshataki,laghu ,ruksha,tikta,,katu,ushna,PKS
+125,Krisna Jiraka,laghu,ruksha,katu,,katu,ushna,VKS
+126,Kulattha,laghu ,ruksha,kashaya,,katu,ushna,VKS
+127,Kumari,snigdha,picchila,tikta,madhura,katu,sheeta,TS
+128,Kumkuma Kesara,snigdha,laghu,katu,tikta,katu,ushna,VKS
+129,Kumuda,laghu,snigdha,kashaya,madhura,madhura,sheeta,PKS
+130,Kupilu,ruksha,laghu,tikta,katu,katu,ushna,VKS
+131,Kusha,laghu,snigdha,madhura,kashaya,madhura,sheeta,TS
+132,Kushmanda,guru,snigdha,madhura,,madhura,sheeta,VPS
+133,Kushta,laghu,ruksha,tikta,katu,katu,ushna,VKS
+134,Kutaja,laghu,ruksha,tikta,kashaya,katu,sheeta,TS
+135,Lajjalu,laghu,ruksha,tikta,kashaya,katu,sheeta,PKS
+136,Langali,laghu,tikshna,katu,tikta,katu,ushna,VKS
+137,Lata Kasturi,laghu,tikshna,tikta,madhura,katu,sheeta,PKS
+138,Latakaranja,laghu,ruksha,tikta,kashaya,katu,ushna,VKS
+139,Lavanga,laghu,snigdha,katu,tikta,katu,sheeta,PKS
+140,Lodhra,ruksha,,kashaya,madhura,katu,sheeta,PKS
+141,Madanaphala,laghu,ruksha,tikta,madhura,katu,ushna,VKS
+142,Madayantika,laghu,ruksha,tikta,kashaya,katu,sheeta,PKS
+143,Mahanimba,laghu,ruksha,tikta,kashaya,katu,sheeta,PKS
+144,Mandukaparni,laghu,sara,tikta,kashaya,katu,sheeta,TS
+145,Manjishta,guru,ruksha,kashaya,tikta,katu,ushna,PKS
+146,Maricha,laghu,tikshna,katu,,katu,ushna,VKS
+147,Markhandika,laghu,tikshna,katu,tikta,katu,ushna,VKS
+148,Masha,guru ,snigdha,madhura,,madhura ,sheeta,VS
+149,Mashaparni,laghu ,snigdha,tikta,tikta,madhura ,sheeta,VPS
+150,Mayaphala,laghu,ruksha,kashaya,,katu,sheeta,PKS
+151,Meshashrungi,laghu,ruksha,tikta,kashaya,katu,ushna,VKS
+152,Methika,laghu ,snigdha,katu,,katu,ushna,VKS
+153,Mudgaparni,laghu ,ruksha,madhura,,madhura ,sheeta,TS
+154,Mulaka,laghu,tikshna,katu,,katu,ushna,TS
+155,Murva,guru ,ruksha,madhura,tikta,katu,ushna,TS
+156,Musta,laghu,ruksha,kashaya,tikta,katu,sheeta,PKS
+157,Nagabala,guru ,snigdha,madhura,kashaya,madhura ,sheeta,VPS
+158,Nagakesara,laghu,ruksha,kashaya,tikta,katu,ushna,PKS
+159,Nala,laghu,snigdha,madhura,kashaya,madhura ,sheeta,TS
+160,Narikela,guru ,snigdha,madhura,,madhura ,sheeta,VPS
+161,Nili,laghu ,ruksha,tikta,,katu,ushna,VKS
+162,Nimba,laghu,ruksha,kashaya,tikta,katu,sheeta,PKS
+163,Nirgundi,laghu,ruksha,kashaya,tikta,katu,ushna,VKS
+164,Padmaka,laghu,snigdha,kashaya,tikta,katu,sheeta,PKS
+165,Palandu,guru ,snigdha,madhura,katu,madhura ,ushna,VS
+166,Palasa,laghu,snigdha,kashaya,tikta,katu,ushna,VKS
+167,Parasika Yavani,ruksha,,tikta,katu,katu,ushna,VKS
+168,Parijata,laghu,ruksha,tikta,,katu,ushna,VKS
+169,Parisha,ruksha,laghu,madhura,kashaya,katu,sheeta,VPS
+170,Parnabija,laghu,ruksha,kashaya,amla,madhura,sheeta,VPS
+171,Parnayavani,laghu,tikshna,katu,tikta,katu,ushna,VPS
+172,Parpata,laghu,,tikta,,katu,sheeta,PKS
+173,Parushaka,laghu,snigdha,madhura,amla,madhura,sheeta,VPS
+174,Pashanabheda,tikshna,snigdha,kashaya,tikta,katu,sheeta,TS
+175,Patala,laghu,ruksha,kashaya,tikta,katu,ushna,TS
+176,Patala Garudi,laghu,snigdha,tikta,,katu ,ushna,VKS
+177,Patha/Rajapatha,laghu,tikshna,tikta,,katu,ushna,VPS
+178,Patola,laghu,snigdha,tikta,,katu,ushna,TS
+179,Patranga,ruksha,,kashaya,,katu,sheeta,PKS
+180,Pilu,laghu,snigdha,tikta,madhura,katu,ushna,VKS
+181,Pippali,laghu ,snigdha,katu,,madhura,anushna,VKS
+182,Plaksha,guru,ruksha,kashaya,,katu,sheeta,PKS
+183,Prasarini,guru,sara,tikta,,katu,ushna,VKS
+184,Prisniparni,laghu ,sara,katu,madhura,madhura,ushna,TS
+185,Priyala,snigdha ,guru,madhura,,madhura,sheeta,VPS
+186,Priyangu,guru,ruksha,tikta,kashaya,katu,sheeta,VPS
+187,Puga,guru ,ruksha,kashaya,madhura,katu,sheeta,PKS
+188,Punarnava,laghu,ruksha,katu,,madhura,ushna,PKS
+189,Puskaramula,laghu,tikshna,katu,tikta,katu,ushna,VKS
+190,Putiha,laghu,ruksha,katu,,katu,ushna,VKS
+191,Putranjivaka,guru,ruksha,madhura,katu,madhura,sheeta,VPS
+192,Rajika,tikshna,,katu,,katu,ushna,VKS
+193,Rakta Chandana,guru,ruksha,tikta,madhura,katu,sheeta,PKS
+194,Rasna,guru,,tikta,,katu,ushna,VKS
+195,Rasona,guru,tikshna,kashaya,tikta,katu,ushna,VKS
+196,Rohitaka,laghu,snigdha,kashaya,tikta,katu,sheeta,PKS
+197,Saireyaka,laghu,snigdha,tikta,madhura,katu,ushna,VKS
+198,Saptachakra,laghu,ruksha,kashaya,tikta,katu,ushna,PKS
+199,Saptaparna,laghu,snigdha,tikta,kashaya,katu,ushna,PKS
+200,Sarala,laghu ,snigdha,katu,tikta,katu,ushna,VKS
+201,Sariva,guru,snigdha,tikta,madhura,madhura,sheeta,TS
+202,Sarja,snigdha,,madhura,tikta,katu,sheeta,PKS
+203,Sarpagandha,ruksha,,tikta,,katu,ushna,VKS
+204,Sarshapa,tikshna,snigdha,katu,tikta,katu,ushna,VKS
+205,Shala,ruksha,,tikta,kashaya,katu,sheeta,PKS
+206,Shalaparni,guru,snigdha,madhura,tikta,madhura,sheeta,VPS
+207,Shallaki,laghu,ruksha,kashaya,tikta,katu,sheeta ,PKS
+208,Shalmali,laghu ,snigdha,madhura,kashaya,madhura,sheeta,VPS
+209,Shankhapushpi,snigdha,picchila ,kashaya,katu,madhura,sheeta,TS
+210,Shara,laghu ,snigdha,katu,tikta,madhura,sheeta,VPS
+211,Sharapunkha,laghu ,ruksha,katu,tikta,katu,ushna,VKS
+212,Shatahva,laghu ,snigdha,katu,tikta,katu,ushna,VKS
+213,Shatavari,guru,snigdha,madhura,tikta,madhura,sheeta,VPS
+214,Shati,laghu ,tikshna,katu,tikta,katu,ushna,VKS
+215,Shigru,ruksha,tikshna,katu,,katu,ushna,VKS
+216,Shimshapa,laghu ,ruksha,kashaya,katu,katu,ushna,VKS
+217,Shirisha,laghu,ruksha,kashaya,tikta,katu,anushna,TS
+218,Shyonaka,laghu,ruksha,tikta,kashaya,katu,ushna,VKS
+219,Snuhi,laghu ,tikshna,katu,,katu,ushna,VKS
+220,Sringataka,guru,ruksha,madhura,kashaya,madhura,sheeta,PS
+221,Surana,laghu ,ruksha,katu,kashaya,katu,ushna,VKS
+222,Svarnakshiri,laghu ,ruksha,tikta,,katu,sheeta,PKS
+223,Svarnakshiri,laghu ,ruksha,tikta,,katu,sheeta,PKS
+224,Sweta Chandana ,ruksha,laghu,tikta,madhura,katu,sheeta,PKS
+225,Sweta Jiraka,laghu,ruksha,katu,,katu,ushna,VKS
+226,Tagara,laghu ,snigdha,tikta,katu,katu,ushna,VKS
+227,Tailaparni,laghu ,snigdha,katu,tikta,katu,ushna,VKS
+228,Talamuli,guru,snigdha,madhura,tikta,madhura,ushna,VPS
+229,Talisapatra,snigdha,guru,katu ,tikta,madhura,ushna,TS
+230,Taruni,laghu ,snigdha,tikta,kashaya,madhura,sheeta,VPS
+231,Tavakshiri,laghu ,snigdha,madhura,,madhura,sheeta,VPS
+232,Tejapatra,laghu ,tikshna,katu,madhura,katu,ushna,VKS
+233,Tila,guru,snigdha,madhura,kashaya,katu,ushna,VS
+234,Trivrut,laghu ,ruksha,katu,tikta,katu,ushna,PKS
+235,Tulasi,laghu,ruksha,katu,tikta,katu,ushna,VKS
+236,Tuvaraka,tikshna,snigdha,katu,tikta,katu,ushna,VKS
+237,Tvak,laghu,tikshna,katu,tikta,katu,ushna,VKS
+238,Udumbara,guru,ruksha,kashaya,,katu,ushna,PKS
+239,Ushira,laghu,snigdha,tikta,madhura,madhura,sheeta,VPS
+240,Vacha,laghu,tikshna,katu,tikta,katu,ushna,VKS
+241,Vamsha,ruksha,laghu,madhura,kashaya,madhura,sheeta,VPS
+242,Varahikanda,snigdha,laghu,madhura,tikta,katu,ushna,TS
+243,Varuna,laghu,ruksha,kashaya,tikta,katu,ushna,VKS
+244,Vasa,ruksha,laghu,tikta,kashaya,katu,sheeta,PKS
+245,Vata,guru,ruksha,kashaya,,katu,sheeta,PKS
+246,Vatada,snigdha,guru,madhura,,madhura,ushna,VPS
+247,Vatsanabha,ruksha,laghu,madhura,,madhura,ushna,TS
+248,Vidanga,laghu ,ruksha,katu,kashaya,katu,ushna,VKS
+249,Vidari,guru ,snigdha,madhura,,madhura,sheeta,VPS
+250,Vruddhadaru,laghu,snigdha,katu,tikta,madhura,ushna,VKS
+251,Vrukshamla,laghu,ruksha,amla,,amla,ushna,VKS
+252,Yashtimadhu,guru,snigdha,madhura,,madhura,sheeta,VPS
+253,Yavani,laghu,ruksha,katu,tikta,katu,ushna,VKS
